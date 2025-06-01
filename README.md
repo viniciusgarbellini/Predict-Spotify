@@ -31,5 +31,5 @@ O modelo final é exibido graficamente, permitindo uma leitura fácil de como as
 - Scikit-learn
 
 ## 👤 Autor
-Garbellini
 Vinicius Araujo
+#Garbellini
